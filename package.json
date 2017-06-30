@@ -1,0 +1,28 @@
+{
+  "name": "dahouzi-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hefeilch/dahouzi-backend.git"
+  },
+  "author": "lch",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hefeilch/dahouzi-backend/issues"
+  },
+  "homepage": "https://github.com/hefeilch/dahouzi-backend#readme",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "cookie-parser": "^1.4.3",
+    "debug": "^2.6.8",
+    "express": "^4.15.3",
+    "morgan": "^1.8.2",
+    "mysql": "^2.13.0",
+    "serve-favicon": "^2.4.3"
+  }
+}
